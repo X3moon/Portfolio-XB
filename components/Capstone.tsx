@@ -15,7 +15,7 @@ const Capstone: React.FC = () => {
               <a href={CAPSTONE_PROJECT.liveDemoUrl} target="_blank" rel="noopener noreferrer" className="flex items-center font-semibold text-gray-300 hover:text-blue-400 transition-colors duration-300">
                 <ExternalLink className="w-5 h-5 mr-2" /> Live Demo
               </a>
-              <a href="{https://github.com/X3moon/Portfolio-XB}" target="_blank" rel="noopener noreferrer" className="flex items-center font-semibold text-gray-300 hover:text-blue-400 transition-colors duration-300">
+              <a href="https://github.com/X3moon/Portfolio-XB" target="_blank" rel="noopener noreferrer" className="flex items-center font-semibold text-gray-300 hover:text-blue-400 transition-colors duration-300">
                 <Github className="w-5 h-5 mr-2" /> GitHub Repository
               </a>
             </div>
