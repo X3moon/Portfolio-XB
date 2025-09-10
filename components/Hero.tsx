@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
             </span>
           </a>
           <a
-            href="linkedin.com/in/xongile-baloyi-1749731a2"
+            href="www.linkedin.com/in/xongile-baloyi-1749731a2"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center justify-center px-6 py-3 text-white font-medium rounded-lg border border-blue-500 hover:bg-blue-500/10 transition-all duration-300"
