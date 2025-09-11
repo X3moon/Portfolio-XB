@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
         <div className="relative w-48 h-48 mx-auto mb-8">
             <img
                 src="profile/pic"
-                alt={PERSONAL_INFO.name}
+                alt="Profile Picture"
                 className="rounded-full w-full h-full object-cover border-4 border-blue-500/50 shadow-lg shadow-blue-500/20"
             />
             <div className="absolute inset-0 rounded-full border-4 border-cyan-500/50 animate-pulse"></div>
