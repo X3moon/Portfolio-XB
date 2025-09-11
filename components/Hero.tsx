@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
       <div className="relative z-10 text-center">
         <div className="relative w-48 h-48 mx-auto mb-8">
             <img
-                src="C:\Users\Capaciti\Downloads\profile\pic"
+                src="Downloads/profile/pic.jpg"
                 alt="Profile Picture"
                 className="rounded-full w-full h-full object-cover border-4 border-blue-500/50 shadow-lg shadow-blue-500/20"
             />
